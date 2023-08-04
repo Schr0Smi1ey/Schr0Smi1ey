@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love music, travelling .
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-:handshake: **Connect with me : ** <br><br>
+:handshake: **Connect** **with** **me** **:** <br><br>
 <a href="https://www.linkedin.com/in/sarafat-karim-0a91b7182">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
