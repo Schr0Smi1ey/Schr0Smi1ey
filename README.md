@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22AAF7&width=435&lines=Hi+there+!+it's+been+a+while+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-👋 Hello! I'm Sarafat Karim, a passionate and dedicated learner in the world of coding and technology. Currently, I am pursuing my B.Sc in Engineering in Computer Science and Engineering (CSE) at Khulna University, where I'm immersing myself in the exciting realm of computer science and programming.
+👋 I'm Sarafat Karim, a passionate and dedicated learner in the world of coding and technology. Currently, I am pursuing my B.Sc in Engineering in Computer Science and Engineering (CSE) at Khulna University, where I'm immersing myself in the exciting realm of computer science and programming.
 
 💡 My days are often spent exploring various programming languages, engaging in competitive programming, diving deep into data structures and algorithms. This exploration is driven by my desire to transform lines of code into functional and impactful solutions.
 
@@ -24,7 +24,7 @@
 </a>
 <a href="https://medium.com/@Schro_smiley">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-</a> <br><br>
+</a>
 <a href="https://twitter.com/sarafat_karim">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a> <br><br>
