@@ -2,6 +2,9 @@
 
 [![Sarafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schrosmiley)](https://github.com/Schrosmiley/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Schrosmiley)](https://github.com/Schrosmiley/github-profile-trophy)
+
+:computer:
+
 <!--
 
 
