@@ -40,7 +40,8 @@
 </a>
 <a href="https://leetcode.com/Schr0Smi1ey/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode>
-</a>
+</a><br>
+    
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 :computer: **Languages , Skills**
 <p float="left">
