@@ -10,7 +10,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Schrosmiley)](https://github.com/Schrosmiley/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Schr0Smi1ey)](https://github.com/Schr0Smi1ey/github-profile-trophy)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@
 </a><br>
     
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 :computer: **Languages , Skills**<br><br>
 <p float="left">
 <img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
@@ -53,9 +53,9 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sarafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schrosmiley)](https://github.com/Schrosmiley/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Schrosmiley)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schrosmiley&theme=tokyonight)
+[![Sarafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schr0Smi1ey)](https://github.com/Schr0Smi1ey/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Schr0Smi1ey)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schr0Smi1ey&theme=tokyonight)
 <!--
 
 
