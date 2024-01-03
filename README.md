@@ -30,6 +30,18 @@
 </a> <br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+:computer: **Coding Profile**<br><br>
+
+<a href="https://codeforces.com/profile/Schr0Smi1ey">
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces">
+</a>
+<a href="https://www.codechef.com/users/schrosmiley">
+  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef>
+</a>
+<a href="https://leetcode.com/Schr0Smi1ey/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode>
+</a>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 :computer: **Languages , Skills**
 <p float="left">
 <img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
