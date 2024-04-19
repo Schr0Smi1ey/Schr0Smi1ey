@@ -12,9 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvabhat24&label=Profile%20views&color=00ff00&style=plastic" alt="dhruvabhat24" /> </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Schr0Smi1ey)](https://github.com/Schr0Smi1ey/github-profile-trophy)
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhruvabhat24&theme=radical" alt="dhruvabhat24" />
+  </a>
+</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
