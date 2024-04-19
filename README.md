@@ -10,14 +10,15 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvabhat24&label=Profile%20views&color=00ff00&style=plastic" alt="dhruvabhat24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Schr0Smi1ey&label=Profile%20views&color=00ff00&style=plastic" alt="Schr0Smi1ey" /> </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhruvabhat24&theme=radical" alt="dhruvabhat24" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Schr0Smi1ey&theme=radical" alt="Schr0Smi1ey" />
   </a>
 </p>
 
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Schr0Smi1ey)](https://github.com/Schr0Smi1ey/github-profile-trophy) -->
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me: radiantremel444@gmail.com
