@@ -8,7 +8,10 @@
 
 📫 I'm thrilled to be a part of this dynamic community of learners and creators. If you share the same passion for coding, I invite you to connect with me. Don't hesitate to reach out. Let's learn and create together!
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvabhat24&label=Profile%20views&color=00ff00&style=plastic" alt="dhruvabhat24" /> </p>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Schr0Smi1ey)](https://github.com/Schr0Smi1ey/github-profile-trophy)
