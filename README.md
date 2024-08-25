@@ -26,7 +26,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 :handshake: <img align="center" src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white" /> <br><br>
-<a href="https://fb.com/radiant.remel.5" target="blank">
+<a href="https://fb.com/radiant.remel.5" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="radiant.remel.5" />
 </a>
 <a href="https://www.linkedin.com/in/sarafat-karim-0a91b7182">
