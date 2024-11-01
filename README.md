@@ -73,9 +73,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40" />
 </p>
+
+
   
+  <div style="display: flex; align-items: center;">
+    <div style="display: inline-flex;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" ></div>
+    <p style="display: inline-flex; font-weight: bold;">GitHub Stats ⚡</p>
+</div>
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Sarafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schr0Smi1ey)](https://github.com/Schr0Smi1ey/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Schr0Smi1ey)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schr0Smi1ey&theme=tokyonight)
+[![Sarafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schr0Smi1ey&theme=cobalt&hide_border=true)](https://github.com/Schr0Smi1ey/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Schr0Smi1ey&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schr0Smi1ey&theme=cobalt2&hide_border=true)
