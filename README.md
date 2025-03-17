@@ -85,6 +85,15 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white&labelColor=101010)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white&labelColor=101010)
    ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwind-css&logoColor=white&labelColor=101010)
+   ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&labelColor=101010)
+  
+- **Back-End Development**:
+
+   ![NodeJs](https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white&labelColor=101010)
+   ![ExpressJs](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&labelColor=101010)
+   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white&labelColor=101010)
+   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=101010)
+   ![Firebase](https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=white&labelColor=101010)
 
 - **Cloud Hosting**:
 
